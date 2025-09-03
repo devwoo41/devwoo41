@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript)
 ![Django](https://img.shields.io/badge/Django-REST-green?style=flat-square&logo=django)
 ![React](https://img.shields.io/badge/React-Hooks-61DAFB?style=flat-square&logo=react)
-![openai](https://img.shields.io/badge/React-Hooks-61DAFB?style=flat-square&logo=openai)
-![tensorflow](https://img.shields.io/badge/React-Hooks-61DAFB?style=flat-square&logo=tensorflow)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?style=flat-square&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=flat-square&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
