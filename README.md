@@ -1,5 +1,8 @@
 ## 아직은 배울게 많은 아기 개발자입니다. ML,DL,NLP에 관심이 많습니다.
 
+
+
+
 ![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript)
 ![Django](https://img.shields.io/badge/Django-REST-green?style=flat-square&logo=django)
