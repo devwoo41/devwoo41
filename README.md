@@ -2,11 +2,10 @@
 
 ## 🏅 인증 뱃지
 
-[![My Blockchain Certificate](https://schemas.netlearning.co.jp/2020/blockcerts/displayHtml)
+[![My Blockchain Certificate]([https://schemas.netlearning.co.jp/2020/blockcerts/displayHtml](https://nlp.netlearning.co.jp/api/v1.0/openbadge/v2/BadgeClass/WEtaMkRpRzJhVGpuU2QyN2xqc0EwQT09/image))
 
 - **대회명:** 2025학년도 대학-지역사회 연계 해커톤 프로젝트: K-HTML 해커톤 대회
-- **인증서 발급처:** Blockcerts / K-HTML 해커톤 조직위
-- **블록체인에서 확인:** [🔗 인증서 보기](https://blockcerts.badge.academy/certificate/display/abcd1234)
+- **인증서 발급처:** 경희대학교 / K-HTML 해커톤 조직위
 
 <!--
 **devwoo41/devwoo41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
