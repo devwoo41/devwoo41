@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=devwoo41&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🏅 인증 뱃지
 
 ![My Blockchain Certificate](https://github.com/devwoo41/devwoo41/blob/main/khtml_badge.png?raw=true)
