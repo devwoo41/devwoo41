@@ -2,11 +2,10 @@
 
 ## 🏅 인증 뱃지
 
-[![My Blockchain Certificate](<img width="1470" height="1042" alt="image" src="https://github.com/user-attachments/assets/a4c048d2-99b1-4fc5-9f76-1ff27eae3a7f" />
-)
+![My Blockchain Certificate](https://github.com/devwoo41/devwoo41/blob/main/khtml_badge.png?raw=true)
 
-- **대회명:** 2025학년도 대학-지역사회 연계 해커톤 프로젝트: K-HTML 해커톤 대회
-- **인증서 발급처:** 경희대학교 / K-HTML 해커톤 조직위
+-   **대회명:** 2025학년도 대학-지역사회 연계 해커톤 프로젝트: K-HTML 해커톤 대회
+-   **인증서 발급처:** 경희대학교 / K-HTML 해커톤 조직위
 
 <!--
 **devwoo41/devwoo41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
