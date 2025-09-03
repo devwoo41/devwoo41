@@ -18,7 +18,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 
-## 🏅 인증 뱃지
+## 🏅 해커톤/대회 인증 뱃지
 
 ![My Blockchain Certificate](https://github.com/devwoo41/devwoo41/blob/main/khtml_badge.png?raw=true)
 
