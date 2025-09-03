@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=devwoo41&show_icons=true&theme=tokyonight" />
+
 ## 🏅 인증 뱃지
 
 ![My Blockchain Certificate](https://github.com/devwoo41/devwoo41/blob/main/khtml_badge.png?raw=true)
